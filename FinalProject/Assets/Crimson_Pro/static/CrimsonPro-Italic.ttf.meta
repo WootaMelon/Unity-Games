@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: cba078d9bbf82a741a4d7a69fb52db27
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Crimson Pro
+  fontNames:
+  - Crimson Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70ffd250a419a994fb4bea24a1797f43, type: 3}
+  - {fileID: 12800000, guid: 1273267483cb52a47b5ea1b70159fb97, type: 3}
+  - {fileID: 12800000, guid: a3456518495eff24383c460a291fc5b7, type: 3}
+  - {fileID: 12800000, guid: d3ea32da2b633204cb922b846293da6c, type: 3}
+  - {fileID: 12800000, guid: 092c272bf1d6af5418a51417fc85d9cd, type: 3}
+  - {fileID: 12800000, guid: 5a1890cbcbcd0d84aab9de17ba71103b, type: 3}
+  - {fileID: 12800000, guid: f23598ccb40ea494e9f3c55028ac0071, type: 3}
+  - {fileID: 12800000, guid: f9c4c24dce6b44a428ebc225fe854a64, type: 3}
+  - {fileID: 12800000, guid: da9d5a8d08587484d9440f34746a310d, type: 3}
+  - {fileID: 12800000, guid: 54cd7c0ee4cce5e40aa583a9d52e9476, type: 3}
+  - {fileID: 12800000, guid: 8463872f7301ada43be7376e38a218db, type: 3}
+  - {fileID: 12800000, guid: 91eddfbfefd8a654a9f737cb38d984a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
